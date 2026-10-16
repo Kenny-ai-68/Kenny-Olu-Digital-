@@ -1,0 +1,6 @@
+{
+  "name": "Kenny Olu Digital - Moniepoint Business Solutions",
+  "description": "Get Moniepoint POS machines, business financing loans, high-yield savings, and Moniebook digital bookkeeping with Kenny Olu Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
